@@ -4,6 +4,13 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Random;
+/* Author : Sasank Sekhar Panda
+ * Date : 06th June 2016, 5:15 AM
+ * Time complexity analysis :
+ * Best Case :
+ * Average Case :
+ * Worst Case :
+ */
 
 public class Linear_Search {
 	Linear_Search() throws NumberFormatException, IOException
