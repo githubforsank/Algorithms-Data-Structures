@@ -1,0 +1,15 @@
+package Collection_Framework;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.util.Random;
+
+public class random_Number {
+	public static void main(String args[]) throws IOException
+	{
+		while(true)
+		{
+			Random ran=new Random();
+			System.out.println(Math.abs(ran.nextInt())%101);
+		}
+	}
+}
